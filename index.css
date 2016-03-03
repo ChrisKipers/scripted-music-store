@@ -1,0 +1,74 @@
+.cd-cover {
+    width: 200px;
+    height: 200px;
+}
+
+.person {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#logo {
+    height: 60px;
+}
+
+body { 
+    text-align:center; 
+}
+
+#header-row {
+    background: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Sans-serif;
+    color: white;
+}
+
+.header-item {
+    border-color: white;
+    border-width: 2px;
+    background: green;
+    padding: 10px;
+}
+
+.cd-label {
+    border-color: white;
+    border-width: 2px;
+    background: green;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    font-family: Sans-serif;
+}
+
+.person-label {
+    font-style: italic;
+    font-weight: bold;
+    font-family: Sans-serif;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.person-name {
+    font-weight: bold;
+    font-family: Sans-serif;
+    font-size: 25px;
+    color: gray;
+}
+
+.intro {
+    font-size: 24px;
+    margin: 20px;
+}
+
+.song {
+    padding-top: 40px;
+    font-size: 18px;
+}
+
+.song img {
+    padding-top: 20px;
+}
